@@ -1,4 +1,4 @@
-<h1 align="center">Coucou 👋,je m'apelle Maxime</h1>
+<h1 align="center">Coucou 👋, je m'apelle Maxime</h1>
 <h3 align="center">💫 Développeur Lua, Web, WordPress | 💭 Débutant Python, Bash</h3>
 
 - 🔭 Je travaille actuellement en **FreeLance**
