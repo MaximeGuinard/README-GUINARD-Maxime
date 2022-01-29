@@ -48,5 +48,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximeguinard&show_icons=true&locale=en&layout=compact" alt="maximeguinard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximeguinard&show_icons=true&locale=en" alt="maximeguinard" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximeguinard&" alt="maximeguinard" /></p>
