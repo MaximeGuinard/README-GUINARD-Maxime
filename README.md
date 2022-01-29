@@ -25,6 +25,8 @@
 
 - 📄 Connaître mes expériences [https://www.maxime-guinard.fr/#/resume](https://www.maxime-guinard.fr/#/resume)
 
+- 📄 Mes sites en ligne: https://www.maxime-guinard.fr/ - https://life-roleplay.com/ - https://devsource.fr/ - https://mayeden.com/ - http://katabami.fr/
+
 - 😀 I am **happy !**
 
 <h3 align="left">Connect with me:</h3>
