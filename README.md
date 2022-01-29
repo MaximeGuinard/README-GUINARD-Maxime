@@ -1,5 +1,6 @@
 <h1 align="center">Coucou 👋, je m'apelle Maxime GUINARD</h1>
-<h3 align="center">Mes causes qui m'importent c'est le bien-être des animaux, aide humanitaire et secours en cas de catastrophes, Environnement, lutte contre la pauvreté, enfance et Services sociaux</h3>
+<h3 align="center">📝 Je suis en reconversion professionnelle et je souhaiterais reprendre mes études (Formation) dans le développement. Je développe depuis des années a coté de mon travail mais aujourd'hui je veux en faire mon activité principale.
+🎓 Diplômé d’un CAP Cuisine, j’ai pu acquérir de nombreuses compétences et gagner en maturité grâce à ma formation et mes diverses expériences. Hésitez pas à visiter mon portfolio pour y retrouver mes références et création sur: http://maxime-guinard.fr/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximeguinard&label=Profile%20views&color=0e75b6&style=flat" alt="maximeguinard" /> </p>
 
