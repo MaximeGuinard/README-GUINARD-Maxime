@@ -13,13 +13,11 @@
 
 - 👯 Je collabore souvent avec [@Dinaston et @Edouard](https://life-roleplay.com/)
 
-- 🤝 J'aide beaucoup avec mon Discord [Development Source](https://discord.gg/K2uUHdf)
-
 - 👨‍💻 Tous mes projets sont disponibles sur [https://www.maxime-guinard.fr/#/portfolio](https://www.maxime-guinard.fr/#/portfolio)
 
 - 📝 J'écris régulièrement des articles sur [https://www.maxime-guinard.fr/#/latest-from-the-blog](https://www.maxime-guinard.fr/#/latest-from-the-blog)
 
-- 💬 Demandez-moi de l'aide sur mon discord **Development Source**
+- 💬 Demandez-moi de l'aide sur mon Discord [Development Source](https://discord.gg/K2uUHdf)
 
 - 📫 Comment me joindre **maxime.guinard.pro@gmail.com**
 
