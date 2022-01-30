@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/maximeguinard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/maximeguinard" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/maximeguinard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/maximeguinard" height="30" width="40" /></a>
 <a href="https://twitter.com/guinard_maxime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guinard_maxime" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maxime-guinard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime-guinard" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012587044078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012587044078" height="30" width="40" /></a>
