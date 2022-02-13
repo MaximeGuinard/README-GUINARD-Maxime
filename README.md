@@ -1,6 +1,6 @@
 <h1 align="center">Coucou 👋, je m'appelle Maxime GUINARD</h1>
 <h3 align="center">📝 Je suis en reconversion professionnelle et j'ai repris mes études dans le développement. Je développe depuis des années à coté de mon travail mais aujourd'hui je veux en faire mon activité principale. 
-🎓 Diplômé d’un CAP Cuisine, j’ai pu acquérir de nombreuses compétences et gagner en maturité grâce à ma formation et mes diverses expériences. N'hésitez pas à visiter mon portfolio pour y retrouver mes références et créations sur: http://maxime-guinard.fr/</h3>
+🎓 Diplômé d’un CAP Cuisine, j’ai pu acquérir de nombreuses compétences et gagner en maturité grâce à ma formation et mes diverses expériences. N'hésitez pas à visiter mon portfolio pour y retrouver mes références et créations sur: http://maxime-guinard.fr/</h3> rr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximeguinard&label=Profile%20views&color=0e75b6&style=flat" alt="maximeguinard" /> </p>
 
