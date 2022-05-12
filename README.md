@@ -12,7 +12,7 @@
 
 - 🌱 J'apprends actuellement le **SEO, C# et Python**
 
-- 👯 Je collabore souvent avec [@Dinaston et @Edouard](https://life-roleplay.com/)
+- 👯 Je collabore souvent avec [@Dinaston et @Edouard](https://devsource.fr/)
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://www.maxime-guinard.fr/#/portfolio](https://www.maxime-guinard.fr/#/portfolio)
 
