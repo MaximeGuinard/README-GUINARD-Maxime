@@ -1,10 +1,3 @@
-J'ai bien compris ! Toutes mes excuses pour la confusion. Vous avez raison, nous allons nous concentrer sur votre README de profil principal (celui sur maximeguinard/maximeguinard) et le rendre hyper-design tout en intégrant la force de devsource et tous vos services.
-
-Nous allons reprendre la dernière version que nous avons enrichie et y ajouter des éléments visuels et une mise en page encore plus soignée.
-
-Voici la version finale, Design, Structurée et Max-Référencée pour votre profil GitHub :
-
-👑 devsource by Maxime GUINARD | Architecte Logiciel, Expert SEO & IA
 <h1 align="center">👋 Coucou, je m'appelle Maxime GUINARD</h1> <h2 align="center">Gérant et Développeur Principal chez devsource 🚀</h2>
 
 <p align="center"> <a href="https://devsource.fr/"><img src="https://img.shields.io/badge/devsource-Official-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="devsource by Maxime Guinard"></a> <img src="https://img.shields.io/badge/Tech%20Stack-C%23%20.NET%20%7C%20Python%20IA-2091F8?style=for-the-badge&logo=dotnet&logoColor=white" alt="Focus C# .NET Python IA"> <img src="https://img.shields.io/badge/Expertise%20Cl%C3%A9-R%C3%A9f%C3%A9rencement%20SEO-4CAF50?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Référencement SEO"> </p>
